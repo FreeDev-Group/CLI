@@ -1,0 +1,184 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://rxdtheme.com/themes-wp/edumel
+Data file = /home/u829454838/domains/rxdtheme.com/public_html/themes-wp/edumel/wp-content/uploads/2025/05/demo-content-import-file_2025-05-05__11-18-18.xml
+Widget file = /home/u829454838/domains/rxdtheme.com/public_html/themes-wp/edumel/wp-content/uploads/2025/05/demo-widgets-import-file_2025-05-05__11-18-18.json
+Customizer file = not defined!
+Redux files:
+edumel -> /home/u829454838/domains/rxdtheme.com/public_html/themes-wp/edumel/wp-content/uploads/2025/05/demo-redux-import-file_0-2025-05-05__11-18-18.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "1_0001_19" (Media)
+[ERROR] Failed to import "1_0002_18" (Media)
+[ERROR] Failed to import "1_0019_1" (Media)
+[ERROR] Failed to import "1_0014_6" (Media)
+[ERROR] Failed to import "edumax-home-1" (Media)
+[ERROR] Failed to import "avatar1" (Media)
+[ERROR] Failed to import "avatar2" (Media)
+[ERROR] Failed to import "avatar3" (Media)
+[ERROR] Failed to import "avatar4" (Media)
+[ERROR] Failed to import "brand2" (Media)
+[ERROR] Failed to import "brand3" (Media)
+[ERROR] Failed to import "brand4" (Media)
+[ERROR] Failed to import "brand5" (Media)
+[ERROR] Failed to import "cta" (Media)
+[ERROR] Failed to import "icon1" (Media)
+[ERROR] Failed to import "icon2" (Media)
+[ERROR] Failed to import "header-image" (Media)
+[ERROR] Failed to import "1_0000_i0864" (Media)
+[ERROR] Failed to import "1_0001_i1049" (Media)
+[ERROR] Failed to import "gallery2" (Media)
+[ERROR] Failed to import "1_0002_i0863" (Media)
+[ERROR] Failed to import "cta2" (Media)
+[ERROR] Failed to import "teaching-bg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "about" (Media)
+[ERROR] Failed to import "gallery1" (Media)
+[ERROR] Failed to import "gallery3" (Media)
+[ERROR] Failed to import "gallery4" (Media)
+[ERROR] Failed to import "gallery5" (Media)
+[ERROR] Failed to import "gallery6" (Media)
+[ERROR] Failed to import "team1" (Media)
+[ERROR] Failed to import "team2" (Media)
+[ERROR] Failed to import "team3" (Media)
+[ERROR] Failed to import "team4" (Media)
+[ERROR] Failed to import "team5" (Media)
+[ERROR] Failed to import "team6" (Media)
+[ERROR] Failed to import "team7" (Media)
+[ERROR] Failed to import "team8" (Media)
+[ERROR] Failed to import "1_0000_20" (Media)
+[ERROR] Failed to import "1_0001_19" (Media)
+[ERROR] Failed to import "1_0002_18" (Media)
+[ERROR] Failed to import "1_0003_17" (Media)
+[ERROR] Failed to import "1_0004_16" (Media)
+[ERROR] Failed to import "1_0005_15" (Media)
+[ERROR] Failed to import "1_0006_14" (Media)
+[ERROR] Failed to import "1_0007_13" (Media)
+[ERROR] Failed to import "1_0008_12" (Media)
+[ERROR] Failed to import "1_0009_11" (Media)
+[ERROR] Failed to import "1_0010_10" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "1_0011_9" (Media)
+[ERROR] Failed to import "1_0012_8" (Media)
+[ERROR] Failed to import "1_0013_7" (Media)
+[ERROR] Failed to import "1_0014_6" (Media)
+[ERROR] Failed to import "1_0015_5" (Media)
+[ERROR] Failed to import "1_0016_4" (Media)
+[ERROR] Failed to import "1_0017_3" (Media)
+[ERROR] Failed to import "1_0018_2" (Media)
+[ERROR] Failed to import "1_0019_1" (Media)
+[ERROR] Failed to import "logo-white" (Media)
+[ERROR] Failed to import "business" (Media)
+[ERROR] Failed to import "design" (Media)
+[ERROR] Failed to import "development" (Media)
+[ERROR] Failed to import "health" (Media)
+[ERROR] Failed to import "photo" (Media)
+[ERROR] Failed to import "math" (Media)
+[ERROR] Failed to import "edumax-logo" (Media)
+[ERROR] Failed to import "edumax-logo-white" (Media)
+[ERROR] Failed to import "finance" (Media)
+[ERROR] Failed to import "cat3" (Media)
+[ERROR] Failed to import "sales" (Media)
+[ERROR] Failed to import "animation" (Media)
+[ERROR] Failed to import "graphics" (Media)
+[ERROR] Failed to import "uiux" (Media)
+[ERROR] Failed to import "js" (Media)
+[ERROR] Failed to import "edumax-home-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "course1" (Media)
+[ERROR] Failed to import "course3" (Media)
+[ERROR] Failed to import "course1" (Media)
+[ERROR] Failed to import "course4" (Media)
+[ERROR] Failed to import "course5" (Media)
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "course6" (Media)
+[ERROR] Failed to import "course7" (Media)
+[ERROR] Failed to import "course8" (Media)
+[ERROR] Failed to import "course9" (Media)
+[ERROR] Failed to import "course10" (Media)
+[ERROR] Failed to import "course11" (Media)
+[ERROR] Failed to import "cta" (Media)
+[ERROR] Failed to import "health" (Media)
+[ERROR] Failed to import "photo" (Media)
+[ERROR] Failed to import "business" (Media)
+[ERROR] Failed to import "design" (Media)
+[ERROR] Failed to import "development" (Media)
+[ERROR] Failed to import "brand2" (Media)
+[ERROR] Failed to import "brand5" (Media)
+[ERROR] Failed to import "brand3" (Media)
+[ERROR] Failed to import "brand4" (Media)
+[ERROR] Failed to import "math" (Media)
+[ERROR] Failed to import "client1" (Media)
+[ERROR] Failed to import "client2" (Media)
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner_img" (Media)
+[ERROR] Failed to import "cta-bg" (Media)
+[ERROR] Failed to import "img_9" (Media)
+[ERROR] Failed to import "banner-image-03" (Media)
+[ERROR] Failed to import "banner-3" (Media)
+[ERROR] Failed to import "hero_area_image" (Media)
+[ERROR] Failed to import "illustration" (Media)
+[ERROR] Failed to import "testimonial-avata-01" (Media)
+[ERROR] Failed to import "testimonial-avata-02" (Media)
+[ERROR] Failed to import "testimonial-avata-03" (Media)
+[ERROR] Failed to import "testimonial-avata-04" (Media)
+[ERROR] Failed to import "img_01" (Media)
+[ERROR] Failed to import "img_02" (Media)
+[ERROR] Failed to import "img_03" (Media)
+[ERROR] Failed to import "img_04" (Media)
+[ERROR] Failed to import "img_05" (Media)
+[ERROR] Failed to import "img_06" (Media)
+[ERROR] Failed to import "icon1" (Media)
+[ERROR] Failed to import "icon2" (Media)
+[ERROR] Failed to import "icon3" (Media)
+[ERROR] Failed to import "icon4" (Media)
+[ERROR] Failed to import "icon5" (Media)
+[ERROR] Failed to import "icon6" (Media)
+[ERROR] Failed to import "logo-white" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Recent Posts - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Footer About : 
+
+Edumel: Footer About - No Title - Imported
+
+Footer Widget : 
+
+Navigation Menu - Explore - Imported
+Navigation Menu - Programs - Imported
+Navigation Menu - Links - Imported
+Edumel: Footer Contact Info - Address - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: edumel finished successfully!
+
+---ocdi/after_import---
+
