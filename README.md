@@ -133,5 +133,5 @@ Contributions are always welcome!
 
 ---
 
-> -“We believe that Congo will change - through its leaders.”_  
+> -_“We believe that Congo will change - through its leaders.”_  
 > - _FreeDev Team_
